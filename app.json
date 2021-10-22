@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rnpaper",
+    "slug": "rnpaper",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rnpaper"
+}
